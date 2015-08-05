@@ -16,5 +16,4 @@ spec = Gem::Specification.new do |s|
   s.email = 'gerardo.santana@gmail.com'
   s.homepage = 'http://puppet-cleaner.rubyforge.org/'
   s.rubyforge_project = PKG_NAME
-  s.add_dependency('puppet')
 end
